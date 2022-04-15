@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there, I'm Lindsay! <img src="https://cdn-icons.flaticon.com/png/512/4140/premium/4140077.png?token=exp=1650048805~hmac=37ef1bbea900d1311ff189d637e60193" width="75">
 
-<!--
-**jettyblue/jettyblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning all about Full Stack Web Development via Bloom Institute of Technology (Remote)
+- 🔭 I’m currently working on my portfolio, stay tuned!
+- 📫 How to reach me: lindsay.kelly15@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a lefty but play all sports as a righty
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Knowledged in: </br>
+<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="70"> <img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" width="70"> <img src="https://cdn-icons-png.flaticon.com/512/2305/2305963.png" width="70"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="70"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" width="75">
+</br>
+
+---
+
+### Technologies I have worked with:</br>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" width="70"> <img src="https://cdn.icon-icons.com/icons2/2648/PNG/512/dev_git_square_icon_160857.png" width="70"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189955.png" width="70"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" width="70"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" width="70">
+
+---
+
+<p align="center">
+  <i>Let's connect and chat!</i>
+
+  <p align="center">     
+    <p align="center">     
+    <a href="https://www.linkedin.com/in/lindsay-s-kelly/" alt="Linkedin"><img src="https://cdn.icon-icons.com/icons2/1253/PNG/512/1495493940-linkedinsocialmedialogo_84449.png" height="40" width="40"></a>
+    <a href="https://www.instagram.com/jettyblue" alt="Facebook"><img src="https://cdn.icon-icons.com/icons2/1253/PNG/512/1495493990-instagramsocialmedialogo_84423.png" height="40" width="40"></a>
+    <a href="https://www.facebook.com/lindsay.kelly.79" alt="Facebook"><img src="https://cdn.icon-icons.com/icons2/1253/PNG/512/1495493982-facebooksocialmedialogo_84419.png" height="40" width="40"></a>
+    <a href="mailto:lindsay.kelly15@gmail.com" alt="Contact me"><img src="https://cdn.icon-icons.com/icons2/1253/PNG/512/1495493944-googlesocialmedialogo_84420.png" height="40" width="40"></a>
+      <a href="https://open.spotify.com/user/122745978?si=EqyjhdHDSfi9cteMsH8B4w" alt="Spotify"><img src="https://cdn.icon-icons.com/icons2/1253/PNG/512/1495493966-greensocialmedialogo_84411.png" height="40" width="40"></a>
+    <!-- <a href="https://nitishawasthi.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
+  </p>
+  
