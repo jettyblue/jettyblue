@@ -1,4 +1,4 @@
-## Hi there, I'm Lindsay! <img src="https://cdn-icons.flaticon.com/png/512/4140/premium/4140077.png?token=exp=1650048805~hmac=37ef1bbea900d1311ff189d637e60193" width="75">
+## Hi there, I'm Lindsay!
 
 - 🌱 I’m currently learning all about Full Stack Web Development via Bloom Institute of Technology (Remote)
 - 🔭 I’m currently working on my portfolio, stay tuned!
