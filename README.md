@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning all about Full Stack Web Development via Bloom Institute of Technology (Remote)
 - 🔭 I’m currently working on my portfolio, stay tuned!
 - 📫 How to reach me: lindsay.kelly15@gmail.com
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1wItHzjEpeNePyXLXshOFUO2EFfUGiWIyIiK2g4fpmjw/edit)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a lefty but play all sports as a righty
 
