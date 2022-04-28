@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on scoring high on the GCA (General Coding Assessment)
 - 🔭 I’m also currently working on my portfolio, stay tuned!
 - 📫 How to reach me: lindsay.kelly15@gmail.com
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1wItHzjEpeNePyXLXshOFUO2EFfUGiWIyIiK2g4fpmjw/edit)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a lefty but play all sports as a righty
 
