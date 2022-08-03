@@ -1,7 +1,6 @@
 ## Hi there, I'm Lindsay!
 
-- 🌱 I’m currently working on scoring high on the GCA (General Coding Assessment)
-- 🔭 I’m also currently working on my portfolio, stay tuned!
+- 🔭 I’m currently working on my portfolio, stay tuned!
 - 📫 How to reach me: lindsay.kelly15@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a lefty but play all sports as a righty
