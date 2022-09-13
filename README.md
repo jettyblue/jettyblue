@@ -5,6 +5,12 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a lefty but play all sports as a righty
 
+![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jettyblue&theme=vue)
+
+![stats](https://github-readme-stats.vercel.app/api?username=jettyblue)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jettyblue)
+
 ---
 
 ### Knowledged in: </br>
